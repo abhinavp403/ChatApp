@@ -3,7 +3,9 @@ package com.abhinav.streamchatapp
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.abhinav.streamchatapp.databinding.ActivityMainBinding
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
