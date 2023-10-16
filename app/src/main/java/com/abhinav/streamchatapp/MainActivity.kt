@@ -1,8 +1,8 @@
-package com.plcoding.streamchatapp
+package com.abhinav.streamchatapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.plcoding.streamchatapp.databinding.ActivityMainBinding
+import com.abhinav.streamchatapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

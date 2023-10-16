@@ -1,4 +1,4 @@
-package com.plcoding.streamchatapp
+package com.abhinav.streamchatapp
 
 import org.junit.Test
 
